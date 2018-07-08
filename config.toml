@@ -1,4 +1,47 @@
 baseURL = "https://wonderful-dijkstra-399cd9.netlify.com/"
 languageCode = "en-us"
-title = "Resources"
 theme = "hyde-hyde"
+title = "Resources"
+pluralizeListTitles = false
+
+## Site Settings
+[params]
+    author = "Matt"
+    title = "Resources"
+    description = "A repo of crypto and general dev resources"
+    authorimage = "/img/hugo.png"
+    dateformat = "2 Jan, 2006"
+    highlightjs = true
+    # highlightjsstyle = "github"
+    # please choose either GraphComment or Disqus
+    # GraphCommentId = "your-graph-comment-id"
+    # layoutReverse = true
+    # sidebarSticky = true
+
+## Social Accounts
+[params.social]
+    github = "matt-auckland"
+    # instagram = "<username>"
+    # xing = "<username>"
+    # linkedin = "<username>"
+    twitter = "matt-attack"
+    # facebook = "<username>"
+    # stackoverflow = "<username>"
+    email = "matt@encrypt-s.com"
+
+## Main Menu
+[[menu.main]]
+    name = "Coins"
+    weight = 100
+    identifier = "coins"
+    url = "/coins/"
+[[menu.main]]
+    name = "General Dev"
+    weight = 150
+    identifier = "development"
+    url = "/development/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"

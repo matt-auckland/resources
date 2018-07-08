@@ -4,7 +4,7 @@ date: 2018-07-08T21:53:22+02:00
 draft: false
 ---
 
-https://lopp.net/bitcoin.html
+- [Bitcoin Resources Compilation](https://lopp.net/bitcoin.html)
 
 # Books
 
