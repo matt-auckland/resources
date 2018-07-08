@@ -1,0 +1,14 @@
+<!-- Disqus-->
+{{ if .Site.DisqusShortname -}}
+    {{ if ne .Params.showcomments false }}
+        <hr>
+        <h2>Comments</h2>
+        {{ partial "commenting_disqus.html" . }}
+    {{ end }}  
+{{ else if .Site.Params.GraphCommentId -}}
+    {{ if ne .Params.showcomments false }}
+        <hr>
+        <h2>Comments</h2>
+        {{ partial "commenting_graph.html" . }}
+    {{ end }}     
+{{- end }}
