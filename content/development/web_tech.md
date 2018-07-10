@@ -2,6 +2,7 @@
 title: "Web Technology"
 date: 2018-07-08T20:45:42+02:00
 draft: false
+tags: ["development"]
 ---
 
 # Frameworks

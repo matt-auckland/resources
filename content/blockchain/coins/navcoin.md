@@ -2,6 +2,7 @@
 title: "Navcoin"
 date: 2018-07-08T21:53:26+02:00
 draft: false
+tags: ["coin", "blockchain"]
 ---
 
 # Projects

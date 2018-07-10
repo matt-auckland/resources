@@ -2,6 +2,7 @@
 title: "Golang"
 date: 2018-07-08T21:19:39+02:00
 draft: false
+tags: ["language", "development"]
 ---
 
 # Language Resources
