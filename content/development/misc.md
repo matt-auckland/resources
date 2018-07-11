@@ -2,7 +2,7 @@
 title: "Misc"
 date: 2018-07-08T20:50:07+02:00
 draft: false
-tags: ["development"]
+categories: ["development"]
 ---
 
 # Tools

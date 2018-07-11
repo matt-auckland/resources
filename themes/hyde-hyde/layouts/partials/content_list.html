@@ -1,4 +1,4 @@
-<h1 class="title">{{ .Title }}</h1>
+<h1 class="title">A list of {{ .Title }} {{ if ne .Title "Tags"}}resources{{end}}</h1>
 <ul class="posts">
     {{ range .Data.Pages -}}
     <li>

@@ -2,7 +2,7 @@
 title: "Web Technology"
 date: 2018-07-08T20:45:42+02:00
 draft: false
-tags: ["development"]
+categories: ["development"]
 ---
 
 # Frameworks
@@ -12,6 +12,8 @@ tags: ["development"]
 # Security
 
 - [The HTML & CSS Security Checklist](https://www.sqreen.io/checklists/html-css-security-checklist)
+- [Dominik Kundel - Introduction to Web Security | JSUnconf 2018](https://www.youtube.com/watch?v=-vYak5hEGrY) - (slides here)[https://speakerdeck.com/dkundel/-24]
+
 
 # HTML & CSS
 

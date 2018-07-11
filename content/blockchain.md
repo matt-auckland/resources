@@ -1,8 +1,8 @@
 ---
-title: "Blockchain"
+title: "General Blockchain Resources"
 date: 2018-07-10T17:32:14+02:00
 draft: false
-tags: ["blockchain"]
+categories: ["blockchain"]
 ---
 
 - [Crypto Chatrooms](https://slofile.com/category/Crypto) - A collection of Slack Servers for Cryptocurrency and Blockchain
@@ -10,6 +10,7 @@ tags: ["blockchain"]
 
 # Learning
 
+- [The missing explanation of Proof of Stake Version 3](http://earlz.net/view/2017/07/27/1904/the-missing-explanation-of-proof-of-stake-version)
 - [Tari Labs University](https://github.com/tari-labs/tari-university) - a collection of courses for learning about blockchain and cryptocurrency
 - [Lightweight Contracts](https://medium.com/@lyaffe/lightweight-contracts-articles-49c3032a50da) - A series of articles on Smart Contracts
 - [Bitcoin.ninja](http://bitcoin.ninja/) - This site is dedicated to providing Bitcoin experts and futurists a place to put links, etc.

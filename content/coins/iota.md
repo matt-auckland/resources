@@ -2,7 +2,7 @@
 title: "IOTA"
 date: 2018-07-10T17:16:22+02:00
 draft: false
-tags: ["coin", "blockchain"]
+categories: ["cryptocurrency", "blockchain"]
 
 ---
 

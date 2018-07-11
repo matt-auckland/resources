@@ -8,7 +8,7 @@ pluralizeListTitles = false
 [params]
     author = "Matt"
     title = "Resources"
-    description = "A repo of crypto and general dev resources"
+    description = "My collection of crypto and general dev resources"
     authorimage = "/img/hugo.png"
     dateformat = "2 Jan, 2006"
     highlightjs = true
@@ -31,15 +31,10 @@ pluralizeListTitles = false
 
 ## Main Menu
 [[menu.main]]
-    name = "Coins"
+    name = "Categories"
     weight = 100
-    identifier = "coins"
-    url = "/coins/"
-[[menu.main]]
-    name = "General Dev"
-    weight = 150
-    identifier = "development"
-    url = "/development/"
+    identifier = "categories"
+    url = "/categories/"
 [[menu.main]]
     name = "About"
     identifier = "about"

@@ -1,8 +1,8 @@
 ---
-title: "Misc"
+title: "General Tokens and DAPPS Resources"
 date: 2018-07-10T17:22:32+02:00
 draft: false
-tags: ["token", "blockchain"]
+categories: ["tokens", "blockchain", "decentralized apps"]
 ---
 
 - [IKU](https://iku.network/index.php) accelerates bio R&D and clinical trials for drug rediscovery through the digitization of rights to research. 

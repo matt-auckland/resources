@@ -2,7 +2,7 @@
 title: "Zcash"
 date: 2018-07-08T21:52:29+02:00
 draft: false
-tags: ["coin", "blockchain"]
+categories: ["cryptocurrency", "blockchain"]
 
 ---
 

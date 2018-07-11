@@ -2,7 +2,7 @@
 title: "Bitcoin"
 date: 2018-07-08T21:53:22+02:00
 draft: false
-tags: ["coin", "blockchain"]
+categories: ["cryptocurrency", "blockchain"]
 ---
 
 - [Bitcoin Core](https://github.com/bitcoin/bitcoin) repository on github
