@@ -7,7 +7,17 @@ categories: ["development"]
 
 # Frameworks
 
+## Things of note
+
+- Typescript - Write JS with types and Object Oreiented Principles, not a framework
+- AngularJS - Very opinionated framework
+- VueJS - Somewhat unopinionated framwork, easy to drop into existing projects.
+- ReactJS - I don't actually know anything about this, similar to Vue in some ways?
+
 - [DevDocs.io](https://devdocs.io/offline)
+- [VueJS Developer Roadmap](https://github.com/marekbrainhub/vue-developer-roadmap) - become a better VueJS Dev
+- [Intro to Vue](https://github.com/sdras/intro-to-vue
+)
 
 # Security
 
@@ -17,10 +27,9 @@ categories: ["development"]
 
 # HTML & CSS
 
-- [CSS Grid](https://cssgrid.io/)
-  - Learn CSS Grid with free video tutorials
-- [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
-  - Learn Flexbox with this free game/tutorial
+- [HTML Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [CSS Grid](https://cssgrid.io/) - Learn CSS Grid with free video tutorials
+- [Flexbox Zombies](https://mastery.games/p/flexbox-zombies) - Learn Flexbox with this free game/tutorial
 
 # JavaScript/ECMAScript
 
@@ -28,3 +37,4 @@ categories: ["development"]
 
 - [Netlify](https://netlify.com)
 - [Netlify CLI](https://github.com/netlify/netlifyctl)
+
